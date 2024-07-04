@@ -41,6 +41,14 @@ export const FloatingNav = ({
     }
   });
 
+  const handleScroll = (e: React.MouseEvent, link: string) => {
+    e.preventDefault();
+    const target = document.querySelector(link);
+    if (target) {
+      target.scrollIntoView({ behavior: "smooth" });
+    }
+  };
+  
   return (
     <AnimatePresence mode="wait">
       <motion.div
