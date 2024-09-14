@@ -69,41 +69,41 @@ export const navItems = [
     },
   ];
   
-  export const projects = [
-    {
-      id: 1,
-      title: "Decentralized (DeFi) Dashboard",
-      des: "A responsive DeFi dashboard for interacting with various DeFi protocols.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "",
-    },
-    {
-      id: 2,
-      title: "Secure Voting dApp",
-      des: "A decentralized application for secure voting, ensuring transparency and tamper-proof results",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "",
-    },
-    {
-      id: 3,
-      title: "Blockchain-based Identity Management System",
-      des: "A decentralized identity management system that allows users to manage their identities securely and control their data.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "",
-    },
-    {
-      id: 4,
-      title: "E-Commerce Platform with Cryptocurrency Payments",
-      des: "A platform supporting traditional payment methods as well as cryptocurrency payments",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "",
-    },
-  ];
-  
+ export const projects = [
+  {
+    id: 1,
+    title: "Azteck Restaurant Site",
+    des: "A restaurant platform for online reservations and food delivery.",
+    img: "/p1.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
+    link: "https://github.com/brooke2384/Azteck-Restaurant", // Update with your actual GitHub link
+  },
+  {
+    id: 2,
+    title: "Weather App",
+    des: "A weather dashboard built using React.js and the OpenWeather API.",
+    img: "/p2.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
+    link: "https://github.com/brooke2384/Weather-App", // Update with your actual GitHub link
+  },
+  {
+    id: 3,
+    title: "Vanilla JS Calculator",
+    des: "A basic calculator built with Vanilla JavaScript.",
+    img: "/p3.svg",
+    iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
+    link: "https://github.com/brooke2384/Vanilla-Js-Calculator", // Update with your actual GitHub link
+  },
+  {
+    id: 4,
+    title: "SecureCore",
+    des: "A tech startup focused on data privacy and security challenges that is still work in progress.",
+    img: "/p4.svg",
+    iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+    link: "https://github.com/yourusername/securecore", // Update with your actual GitHub link
+  },
+];
+
   export const testimonials = [
     {
       quote:
