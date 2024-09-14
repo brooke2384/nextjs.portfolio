@@ -28,7 +28,7 @@ const Hero = () => {
                 />
 
                 <p className="text-center md:tracking-wider mb-4 text-small md:text-lg lg:text-2xl">
-                    Hi, I&apos;m Darlene, a Front-end Web 3 Cybersecurity Developer
+                    Hi, I&apos;m Darlene, a Software Engineer
                 </p>
 
                 <a href="about">
